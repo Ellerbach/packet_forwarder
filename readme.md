@@ -1,3 +1,10 @@
+# LoRa Packet forwarder support for LoRa Gateway with USB-FDTI like RAK833 mPCIe boards
+
+This is a fork of the main LoRa Network Packet Forwarder from Semtech. To find more information on installation and all the changes that were necessay to have a fully working solution, please refer to the [LoRa Gateway fork](https://github.com/ellerbach/lora_gateway).
+
+This repository will be maintain to have same version as the original Semtech repository.
+
+
 	 / _____)             _              | |    
 	( (____  _____ ____ _| |_ _____  ____| |__  
 	 \____ \| ___ |    (_   _) ___ |/ ___)  _ \ 
@@ -238,7 +245,7 @@ maximum ratings or operation outside the specified range.
 SEMTECH PRODUCTS ARE NOT DESIGNED, INTENDED, AUTHORIZED OR WARRANTED TO BE 
 SUITABLE FOR USE IN LIFE-SUPPORT APPLICATIONS, DEVICES OR SYSTEMS OR OTHER 
 CRITICAL APPLICATIONS. INCLUSION OF SEMTECH PRODUCTS IN SUCH APPLICATIONS IS 
-UNDERSTOOD TO BE UNDERTAKEN SOLELY AT THE CUSTOMER’S OWN RISK. Should a 
+UNDERSTOOD TO BE UNDERTAKEN SOLELY AT THE CUSTOMERï¿½S OWN RISK. Should a 
 customer purchase or use Semtech products for any such unauthorized 
 application, the customer shall indemnify and hold Semtech and its officers, 
 employees, subsidiaries, affiliates, and distributors harmless against all 
